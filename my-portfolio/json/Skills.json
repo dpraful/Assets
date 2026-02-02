@@ -1,10 +1,10 @@
 [
-  { "name": "Python", "icon": "python", "level": 100 },
-  { "name": "JavaScript", "icon": "javascript", "level": 100 },
-  { "name": "React", "icon": "react", "level": 100 },
-  { "name": "Django", "icon": "django", "level": 100 },
-  { "name": "Flask", "icon": "flask", "level": 100 },
-  { "name": "MSSQL", "icon": "mssql", "level": 100 },
-  { "name": "MongoDB", "icon": "mongodb", "level": 100 },
-  { "name": "JasperSoft", "icon": "jasper", "level": 100 }
+  { "name": "Python", "icon": "FaPython", "level": 100, "color": "#FFD43B" },
+  { "name": "JavaScript", "icon": "FaJs", "level": 100, "color": "#F0DB4F" },
+  { "name": "React", "icon": "FaReact", "level": 100, "color": "#61DBFB" },
+  { "name": "Django", "icon": "DiDjango", "level": 100, "color": "#092E20" },
+  { "name": "Flask", "icon": "SiFlask", "level": 100, "color": "#000000" },
+  { "name": "MSSQL", "icon": "FaDatabase", "level": 100, "color": "#0078D7" },
+  { "name": "MongoDB", "icon": "SiMongodb", "level": 100, "color": "#47A248" },
+  { "name": "JasperSoft", "icon": "FaFileAlt", "level": 100, "color": "#6A1B9A" }
 ]
