@@ -1,25 +1,29 @@
 {
   "title": "Get in Touch",
   "subtitle": "Feel free to reach out to me for collaboration or inquiries.",
-
   "contacts": [
     {
-      "type": "email",
+      "icon": "FaEnvelope",
       "label": "d.praful@outlook.com",
-      "url": "mailto:d.praful@outlook.com"
+      "url": "mailto:d.praful@outlook.com",
+      "color": "#E53E3E",
+      "size": 22
     },
     {
-      "type": "linkedin",
+      "icon": "FaLinkedin",
       "label": "LinkedIn",
-      "url": "https://linkedin.com/in/prafuldasmm"
+      "url": "https://linkedin.com/in/prafuldasmm",
+      "color": "#0077B5",
+      "size": 22
     },
     {
-      "type": "github",
+      "icon": "FaGithub",
       "label": "GitHub",
-      "url": "https://github.com/dpraful"
+      "url": "https://github.com/dpraful",
+      "color": "#333",
+      "size": 22
     }
   ],
-
   "form": {
     "nameLabel": "Your Name",
     "emailLabel": "Your Email",
