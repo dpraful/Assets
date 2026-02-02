@@ -1,15 +1,18 @@
 [
   {
+    "icon": "FaBriefcase",
     "title": "Software Developer",
     "company": "Jescon Technologies",
     "duration": "Nov 2024 - Present"
   },
   {
+    "icon": "FaLaptopCode",
     "title": "No-Code Developer",
     "company": "Claysys Technologies",
     "duration": "July 2024 - Aug 2024"
   },
   {
+    "icon": "FaCode",
     "title": "Jr. Software Developer",
     "company": "Techolas Technologies",
     "duration": "July 2023 - April 2024"
