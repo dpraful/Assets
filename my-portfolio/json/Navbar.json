@@ -1,0 +1,11 @@
+{
+  "logo": "MyPortfolio",
+  "items": [
+    "Home",
+    "About",
+    "Skills",
+    "Experience",
+    "Projects",
+    "Contact"
+  ]
+}
