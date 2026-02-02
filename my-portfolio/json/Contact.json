@@ -1,0 +1,29 @@
+{
+  "title": "Get in Touch",
+  "subtitle": "Feel free to reach out to me for collaboration or inquiries.",
+
+  "contacts": [
+    {
+      "type": "email",
+      "label": "d.praful@outlook.com",
+      "url": "mailto:d.praful@outlook.com"
+    },
+    {
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/prafuldasmm"
+    },
+    {
+      "type": "github",
+      "label": "GitHub",
+      "url": "https://github.com/dpraful"
+    }
+  ],
+
+  "form": {
+    "nameLabel": "Your Name",
+    "emailLabel": "Your Email",
+    "messageLabel": "Your Message",
+    "submitText": "Send Message"
+  }
+}
