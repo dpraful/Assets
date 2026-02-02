@@ -1,0 +1,19 @@
+{
+  "title": "About Me",
+  "subtitle": "I am a passionate Software Developer with 1+ years of experience in designing and developing scalable applications.",
+  "highlight": "Software Developer",
+  "experience": "1+ years",
+  "profileImage": "profile.jpg",
+  "buttons": [
+    {
+      "label": "View My Work",
+      "type": "scroll",
+      "targetSection": 4
+    },
+    {
+      "label": "Let's Connect",
+      "type": "link",
+      "url": "https://www.linkedin.com/in/prafuldasmm"
+    }
+  ]
+}
