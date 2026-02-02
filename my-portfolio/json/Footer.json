@@ -2,16 +2,44 @@
   "name": "Prafuldas M M",
   "location": "Kerala, India",
   "email": "d.praful@outlook.com",
+
   "nav": [
     { "label": "Home", "href": "#home" },
     { "label": "About", "href": "#about" },
     { "label": "Projects", "href": "#projects" },
     { "label": "Contact", "href": "#contact" }
   ],
+
   "socials": [
-    { "icon": "FaGithub", "url": "https://github.com/dpraful", "color": "#333", "size": 22 },
-    { "icon": "FaLinkedin", "url": "https://linkedin.com/in/prafuldasmm", "color": "#0077B5", "size": 22 },
-    { "icon": "FaTwitter", "url": "https://twitter.com/yourtwitter", "color": "#1DA1F2", "size": 22 },
-    { "icon": "FaEnvelope", "url": "mailto:d.praful@outlook.com", "color": "#E53E3E", "size": 22 }
-  ]
+    {
+      "icon": "FaGithub",
+      "url": "https://github.com/dpraful",
+      "color": "#333",
+      "size": 22
+    },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://linkedin.com/in/prafuldasmm",
+      "color": "#0077B5",
+      "size": 22
+    },
+    {
+      "icon": "FaTwitter",
+      "url": "https://twitter.com/yourtwitter",
+      "color": "#1DA1F2",
+      "size": 22
+    },
+    {
+      "icon": "FaEnvelope",
+      "url": "mailto:d.praful@outlook.com",
+      "color": "#E53E3E",
+      "size": 22
+    }
+  ],
+
+  "backToTopIcon": {
+    "icon": "FaArrowUp",
+    "size": 18,
+    "color": "#000"
+  }
 }
