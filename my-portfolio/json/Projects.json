@@ -1,0 +1,32 @@
+[
+  {
+    "name": "EMR",
+    "link": "https://github.com/dpraful/Jescon",
+    "icon": "hospital",
+    "tags": ["ReactNative", "SpringBoot", "MSSql"]
+  },
+  {
+    "name": "INSURE",
+    "link": "https://github.com/dpraful/Jescon",
+    "icon": "clinic",
+    "tags": ["ReactNative", "SpringBoot", "MSSql"]
+  },
+  {
+    "name": "E-commerce Store",
+    "link": "https://github.com/dpraful/EcommerceStore",
+    "icon": "store",
+    "tags": ["React", "Django", "MySql"]
+  },
+  {
+    "name": "Job Portal",
+    "link": "https://github.com/dpraful/JobPortal",
+    "icon": "briefcase",
+    "tags": ["Html", "Django", "MySql"]
+  },
+  {
+    "name": "Image Game",
+    "link": "https://github.com/dpraful/MagicGame",
+    "icon": "puzzle",
+    "tags": ["React", "Flask", "MSSql"]
+  }
+]
