@@ -1,0 +1,10 @@
+[
+  { "name": "Python", "icon": "python", "level": 100 },
+  { "name": "JavaScript", "icon": "javascript", "level": 100 },
+  { "name": "React", "icon": "react", "level": 100 },
+  { "name": "Django", "icon": "django", "level": 100 },
+  { "name": "Flask", "icon": "flask", "level": 100 },
+  { "name": "MSSQL", "icon": "mssql", "level": 100 },
+  { "name": "MongoDB", "icon": "mongodb", "level": 100 },
+  { "name": "JasperSoft", "icon": "jasper", "level": 100 }
+]
