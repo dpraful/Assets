@@ -1,0 +1,10 @@
+{
+  "sections": [
+    { "name": "Hero", "bg": "hero-bg.jpg" },
+    { "name": "About", "bg": "about-bg.jpg" },
+    { "name": "Skills", "bg": "skills-bg.jpg" },
+    { "name": "Experience", "bg": "experience-bg.jpg" },
+    { "name": "Projects", "bg": "projects-bg.jpg" },
+    { "name": "Contact", "bg": "contact-bg.jpg" }
+  ]
+}
