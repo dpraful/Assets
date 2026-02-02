@@ -1,0 +1,19 @@
+{
+  "name": "Prafuldas M M",
+  "location": "Kerala, India",
+  "email": "d.praful@outlook.com",
+
+  "nav": [
+    { "label": "Home", "href": "#home" },
+    { "label": "About", "href": "#about" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+
+  "socials": [
+    { "type": "github", "url": "https://github.com/dpraful" },
+    { "type": "linkedin", "url": "https://linkedin.com/in/prafuldasmm" },
+    { "type": "twitter", "url": "https://twitter.com/yourtwitter" },
+    { "type": "email", "url": "mailto:d.praful@outlook.com" }
+  ]
+}
