@@ -7,6 +7,13 @@
     "tags": ["ReactNative", "SpringBoot", "MSSql"]
   },
   {
+    "name": "HIS",
+    "link": "https://github.com/dpraful/Jescon",
+    "icon": "FaUserShield",
+    "color": "#2B6CB0",
+    "tags": ["ReactNative", "SpringBoot","FastAPI","MSSql"]
+  },
+  {
     "name": "INV",
     "link": "https://github.com/dpraful/Jescon",
     "icon": "FaBoxes",
@@ -40,12 +47,5 @@
     "icon": "FaPuzzlePiece",
     "color": "#9F7AEA",
     "tags": ["React", "Flask", "MSSql"]
-  },
-  {
-    "name": "BIOMETRIC VERIFICATION (HIS)",
-    "link": "https://github.com/dpraful/Jescon",
-    "icon": "FaUserShield",
-    "color": "#2B6CB0",
-    "tags": ["ReactNative","FastAPI","TensorFlow","MSSql"]
   }
 ]
