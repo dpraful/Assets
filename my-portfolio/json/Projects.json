@@ -46,6 +46,6 @@
     "link": "https://github.com/dpraful/Jescon",
     "icon": "FaUserShield",
     "color": "#2B6CB0",
-    "tags": ["ReactNative","FastAPI","TensorFlow","MSSql"],
+    "tags": ["ReactNative","FastAPI","TensorFlow","MSSql"]
   }
 ]
