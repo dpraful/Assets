@@ -1,10 +1,86 @@
 [
-  { "name": "Python", "icon": "FaPython", "level": 100, "color": "#FFD43B" },
-  { "name": "JavaScript", "icon": "FaJs", "level": 100, "color": "#F0DB4F" },
-  { "name": "React", "icon": "FaReact", "level": 100, "color": "#61DBFB" },
-  { "name": "Django", "icon": "DiDjango", "level": 100, "color": "#092E20" },
-  { "name": "Flask", "icon": "SiFlask", "level": 100, "color": "#000000" },
-  { "name": "MSSQL", "icon": "FaDatabase", "level": 100, "color": "#0078D7" },
-  { "name": "MongoDB", "icon": "SiMongodb", "level": 100, "color": "#47A248" },
-  { "name": "JasperSoft", "icon": "FaFileAlt", "level": 100, "color": "#6A1B9A" }
+  {
+    "name": "Python",
+    "icon": "FaPython",
+    "level": 100,
+    "color": "#FFD43B",
+    "url": "https://www.python.org"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "FaJs",
+    "level": 100,
+    "color": "#F0DB4F",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "React",
+    "icon": "FaReact",
+    "level": 100,
+    "color": "#61DBFB",
+    "url": "https://react.dev"
+  },
+  {
+    "name": "React Native",
+    "icon": "FaMobileAlt",
+    "level": 100,
+    "color": "#61DBFB",
+    "url": "https://reactnative.dev"
+  },
+  {
+    "name": "Django",
+    "icon": "DiDjango",
+    "level": 100,
+    "color": "#092E20",
+    "url": "https://www.djangoproject.com"
+  },
+  {
+    "name": "FastAPI",
+    "icon": "SiFastapi",
+    "level": 100,
+    "color": "#009688",
+    "url": "https://fastapi.tiangolo.com"
+  },
+  {
+    "name": "Redux Toolkit",
+    "icon": "SiRedux",
+    "level": 90,
+    "color": "#764ABC",
+    "url": "https://redux-toolkit.js.org"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "SiTailwindcss",
+    "level": 90,
+    "color": "#38BDF8",
+    "url": "https://tailwindcss.com"
+  },
+  {
+    "name": "MSSQL",
+    "icon": "FaDatabase",
+    "level": 100,
+    "color": "#0078D7",
+    "url": "https://www.microsoft.com/sql-server"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "SiMongodb",
+    "level": 100,
+    "color": "#47A248",
+    "url": "https://www.mongodb.com"
+  },
+  {
+    "name": "JasperSoft",
+    "icon": "FaFileAlt",
+    "level": 90,
+    "color": "#6A1B9A",
+    "url": "https://www.jaspersoft.com"
+  },
+  {
+    "name": "Git",
+    "icon": "FaGitAlt",
+    "level": 90,
+    "color": "#F05032",
+    "url": "https://git-scm.com"
+  }
 ]
