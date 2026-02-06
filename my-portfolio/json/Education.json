@@ -1,0 +1,16 @@
+[
+  {
+    "icon": "FaUniversity",
+    "title": "MASTERS IN COMPUTER APPLICATIONS",
+    "company": "IGNOU UNIVERSITY",
+    "duration": "JULY 2024 - JULY 2026",
+    "url": "https://ignou.ac.in/"
+  },
+  {
+    "icon": "FaUniversity",
+    "title": "BACHELORS IN COMPUTER APPLICATIONS",
+    "company": "KERALA UNIVERSITY",
+    "duration": "JULY 2020 - APRIL 2023",
+    "url": "https://keralauniversity.ac.in/"
+  }
+]
