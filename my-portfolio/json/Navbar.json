@@ -1,11 +1,41 @@
 {
-  "logo": "MyPortfolio",
-  "items": [
-    "Home",
-    "About",
-    "Skills",
-    "Experience",
-    "Projects",
-    "Contact"
+  "logo": "PRAFULDAS M M",
+  "sections": [
+    {
+      "name": "Hero",
+      "component": "Hero",
+      "bg": "hero.jpg",
+      "enabled": true
+    },
+    {
+      "name": "About",
+      "component": "About",
+      "bg": "about.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Skills",
+      "component": "Skills",
+      "bg": "skills.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Experience",
+      "component": "Experience",
+      "bg": "experience.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Projects",
+      "component": "Projects",
+      "bg": "projects.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Contact",
+      "component": "Contact",
+      "bg": "contact.jpg",
+      "enabled": true
+    }
   ]
 }
