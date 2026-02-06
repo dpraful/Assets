@@ -48,5 +48,9 @@
       "description": "Interactive stock reporting module that provides real-time insights into inventory levels, movement trends, and availability.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img8.jpg"
     }
-  ]
+  ],
+  "demo": "https://github.com/dpraful/Jescon",
+  "github": "https://github.com/dpraful/EcommerceStore",
+  "status": "In production",
+  "description": "This inventory management system features a comprehensive set of modules designed to streamline operations, enhance accuracy, and provide real-time insights into inventory status. From secure login and centralized dashboards to detailed invoice management and dynamic stock reporting, the system offers robust functionality for efficient inventory control and decision-making."
 }
