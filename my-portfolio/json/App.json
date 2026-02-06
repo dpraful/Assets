@@ -1,10 +1,40 @@
 {
   "sections": [
-    { "name": "Hero", "bg": "hero-bg.jpg" },
-    { "name": "About", "bg": "about-bg.jpg" },
-    { "name": "Skills", "bg": "skills-bg.jpg" },
-    { "name": "Experience", "bg": "experience-bg.jpg" },
-    { "name": "Projects", "bg": "projects-bg.jpg" },
-    { "name": "Contact", "bg": "contact-bg.jpg" }
+    {
+      "name": "Hero",
+      "component": "Hero",
+      "bg": "hero.jpg",
+      "enabled": true
+    },
+    {
+      "name": "About",
+      "component": "About",
+      "bg": "about.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Skills",
+      "component": "Skills",
+      "bg": "skills.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Experience",
+      "component": "Experience",
+      "bg": "experience.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Projects",
+      "component": "Projects",
+      "bg": "projects.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Contact",
+      "component": "Contact",
+      "bg": "contact.jpg",
+      "enabled": true
+    }
   ]
 }
