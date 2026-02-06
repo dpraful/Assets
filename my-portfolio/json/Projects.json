@@ -1,7 +1,6 @@
 [
   {
     "name": "EMR",
-    "link": "https://github.com/dpraful/Jescon",
     "icon": "FaFileMedical",
     "color": "#E53E3E",
     "tags": [
@@ -13,7 +12,6 @@
   },
   {
     "name": "HIS",
-    "link": "https://github.com/dpraful/Jescon",
     "icon": "FaUserShield",
     "color": "#2B6CB0",
     "tags": [
@@ -26,7 +24,6 @@
   },
   {
     "name": "INV",
-    "link": "https://github.com/dpraful/Jescon",
     "icon": "FaBoxes",
     "color": "#4299E1",
     "tags": [
@@ -38,7 +35,6 @@
   },
   {
     "name": "INSURE",
-    "link": "https://github.com/dpraful/Jescon",
     "icon": "FaFileInvoiceDollar",
     "color": "#38A169",
     "tags": [
