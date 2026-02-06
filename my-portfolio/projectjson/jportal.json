@@ -1,50 +1,52 @@
-[
-  {
-    "icon": "FaSignInAlt",
-    "title": "Login",
-    "description": "Secure authentication screen that allows authorized users to log in using valid credentials, ensuring system safety and access control.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img1.jpg"
-  },
-  {
-    "icon": "FaTachometerAlt",
-    "title": "Dashboard",
-    "description": "Centralized dashboard offering a real-time overview of inventory status, recent transactions, alerts, and key performance metrics.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img2.jpg"
-  },
-  {
-    "icon": "FaFileInvoice",
-    "title": "Invoice Entry",
-    "description": "Invoice management module to create, edit, and track purchase and sales invoices with accurate item and pricing details.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img3.jpg"
-  },
-  {
-    "icon": "FaImage",
-    "title": "Product Image Upload",
-    "description": "Feature that allows users to upload and manage product images, improving item identification and inventory visualization.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img4.jpg"
-  },
-  {
-    "icon": "FaCheckDouble",
-    "title": "Invoice Quantity Verification",
-    "description": "Verification screen to validate invoice quantities against available stock, reducing errors and ensuring accurate inventory records.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img5.jpg"
-  },
-  {
-    "icon": "FaExchangeAlt",
-    "title": "Indent Transfer Entry",
-    "description": "Module for recording and managing stock transfers between departments or locations through structured indent entries.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img6.jpg"
-  },
-  {
-    "icon": "FaUserShield",
-    "title": "Access Policy Report",
-    "description": "Report screen displaying user access policies and permission levels to ensure compliance and controlled system usage.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img7.jpg"
-  },
-  {
-    "icon": "FaChartBar",
-    "title": "Dynamic Stock Report",
-    "description": "Interactive stock reporting module that provides real-time insights into inventory levels, movement trends, and availability.",
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/jportal/img8.jpg"
-  }
-]
+{
+  "imageurl": [
+    {
+      "icon": "FaSignInAlt",
+      "title": "Login",
+      "description": "Secure authentication screen that allows authorized users to log in using valid credentials, ensuring system safety and access control.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img1.jpg"
+    },
+    {
+      "icon": "FaTachometerAlt",
+      "title": "Dashboard",
+      "description": "Centralized dashboard offering a real-time overview of inventory status, recent transactions, alerts, and key performance metrics.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img2.jpg"
+    },
+    {
+      "icon": "FaFileInvoice",
+      "title": "Invoice Entry",
+      "description": "Invoice management module to create, edit, and track purchase and sales invoices with accurate item and pricing details.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img3.jpg"
+    },
+    {
+      "icon": "FaImage",
+      "title": "Product Image Upload",
+      "description": "Feature that allows users to upload and manage product images, improving item identification and inventory visualization.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img4.jpg"
+    },
+    {
+      "icon": "FaCheckDouble",
+      "title": "Invoice Quantity Verification",
+      "description": "Verification screen to validate invoice quantities against available stock, reducing errors and ensuring accurate inventory records.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img5.jpg"
+    },
+    {
+      "icon": "FaExchangeAlt",
+      "title": "Indent Transfer Entry",
+      "description": "Module for recording and managing stock transfers between departments or locations through structured indent entries.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img6.jpg"
+    },
+    {
+      "icon": "FaUserShield",
+      "title": "Access Policy Report",
+      "description": "Report screen displaying user access policies and permission levels to ensure compliance and controlled system usage.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img7.jpg"
+    },
+    {
+      "icon": "FaChartBar",
+      "title": "Dynamic Stock Report",
+      "description": "Interactive stock reporting module that provides real-time insights into inventory levels, movement trends, and availability.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/img8.jpg"
+    }
+  ]
+}
