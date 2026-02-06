@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "FaBriefcase",
+    "title": "login",
+    "description": "Secure user authentication screen allowing authorized staff to log in using valid credentials.",
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/inv1.jpg"
+  },
+  {
+    "icon": "FaLaptopCode",
+    "title": "dashboard",
+    "description": "Centralized dashboard providing a quick overview of inventory status, recent activities, and key metrics.",
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/inv2.jpg"
+  },
+  {
+    "icon": "FaCode",
+    "title": "invoice entry",
+    "description": "Invoice entry module to create, update, and manage purchase and sales invoices efficiently.",
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/inv/inv3.jpg"
+  }
+]
