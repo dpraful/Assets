@@ -32,6 +32,18 @@
       "enabled": true
     },
     {
+      "name": "Education",
+      "component": "Education",
+      "bg": "education.jpg",
+      "enabled": true
+    },
+     {
+      "name": "Achievements",
+      "component": "Achievements",
+      "bg": "achievements.jpg",
+      "enabled": true
+    },
+    {
       "name": "Contact",
       "component": "Contact",
       "bg": "contact.jpg",
