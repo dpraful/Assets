@@ -4,48 +4,84 @@
     "link": "https://github.com/dpraful/Jescon",
     "icon": "FaFileMedical",
     "color": "#E53E3E",
-    "tags": ["ReactNative", "SpringBoot", "MSSql"]
+    "tags": [
+      "ReactNative",
+      "SpringBoot",
+      "MSSql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   },
   {
     "name": "HIS",
     "link": "https://github.com/dpraful/Jescon",
     "icon": "FaUserShield",
     "color": "#2B6CB0",
-    "tags": ["ReactNative", "SpringBoot","FastAPI","MSSql"]
+    "tags": [
+      "ReactNative",
+      "SpringBoot",
+      "FastAPI",
+      "MSSql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   },
   {
     "name": "INV",
     "link": "https://github.com/dpraful/Jescon",
     "icon": "FaBoxes",
     "color": "#4299E1",
-    "tags": ["ReactNative", "SpringBoot", "MSSql"]
+    "tags": [
+      "ReactNative",
+      "SpringBoot",
+      "MSSql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   },
   {
     "name": "INSURE",
     "link": "https://github.com/dpraful/Jescon",
     "icon": "FaFileInvoiceDollar",
     "color": "#38A169",
-    "tags": ["ReactNative", "SpringBoot", "MSSql"]
+    "tags": [
+      "ReactNative",
+      "SpringBoot",
+      "MSSql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   },
   {
     "name": "ECOMMERCE STORE",
     "link": "https://github.com/dpraful/EcommerceStore",
     "icon": "FaStore",
     "color": "#38A169",
-    "tags": ["React", "Django", "MySql"]
+    "tags": [
+      "React",
+      "Django",
+      "MySql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   },
   {
     "name": "JOB PORTAL",
     "link": "https://github.com/dpraful/JobPortal",
     "icon": "FaBriefcase",
     "color": "#5A67D8",
-    "tags": ["Html", "Django", "MySql"]
+    "tags": [
+      "Html",
+      "Django",
+      "MySql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   },
   {
     "name": "IMAGE GAME",
     "link": "https://github.com/dpraful/MagicGame",
     "icon": "FaPuzzlePiece",
     "color": "#9F7AEA",
-    "tags": ["React", "Flask", "MSSql"]
+    "tags": [
+      "React",
+      "Flask",
+      "MSSql"
+    ],
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
   }
 ]
