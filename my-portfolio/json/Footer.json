@@ -1,15 +1,7 @@
 {
-  "name": "Prafuldas M M",
+  "name": "PRAFULDAS M M",
   "location": "Kerala, India",
   "email": "d.praful@outlook.com",
-
-  "nav": [
-    { "label": "Home", "href": "#home" },
-    { "label": "About", "href": "#about" },
-    { "label": "Projects", "href": "#projects" },
-    { "label": "Contact", "href": "#contact" }
-  ],
-
   "socials": [
     {
       "icon": "FaGithub",
