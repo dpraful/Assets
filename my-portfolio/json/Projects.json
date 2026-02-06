@@ -8,7 +8,7 @@
       "SpringBoot",
       "MSSql"
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/emr.json"
   },
   {
     "name": "HIS",
@@ -20,7 +20,7 @@
       "FastAPI",
       "MSSql"
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/his.json"
   },
   {
     "name": "INV",
@@ -42,7 +42,7 @@
       "SpringBoot",
       "MSSql"
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/insure.json"
   },
   {
     "name": "ECOMMERCE STORE",
@@ -54,7 +54,7 @@
       "Django",
       "MySql"
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/estore.json"
   },
   {
     "name": "JOB PORTAL",
@@ -66,7 +66,7 @@
       "Django",
       "MySql"
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/jportal.json"
   },
   {
     "name": "IMAGE GAME",
@@ -78,6 +78,6 @@
       "Flask",
       "MSSql"
     ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/inv.json"
+    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/igame.json"
   }
 ]
