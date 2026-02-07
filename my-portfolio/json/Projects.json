@@ -1,16 +1,5 @@
 [
   {
-    "name": "EMR",
-    "icon": "FaFileMedical",
-    "color": "#E53E3E",
-    "tags": [
-      "ReactNative",
-      "SpringBoot",
-      "MSSql"
-    ],
-    "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectjson/emr.json"
-  },
-  {
     "name": "HIS",
     "icon": "FaUserShield",
     "color": "#2B6CB0",
