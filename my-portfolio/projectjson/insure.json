@@ -3,54 +3,60 @@
     {
       "icon": "FaSignInAlt",
       "title": "Login",
-      "description": "Secure authentication screen that allows authorized users to log in using valid credentials, ensuring system safety and access control.",
+      "description": "Secure login screen for insurance department staff to access the INSURE system using authorized credentials, ensuring data privacy and compliance.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img1.jpg"
     },
     {
       "icon": "FaTachometerAlt",
       "title": "Dashboard",
-      "description": "Centralized dashboard offering a real-time overview of inventory status, recent transactions, alerts, and key performance metrics.",
+      "description": "Centralized dashboard providing an overview of insurance claims, patient status, pending approvals, processed cases, and key operational metrics.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img2.jpg"
     },
     {
       "icon": "FaFileInvoice",
-      "title": "Invoice Entry",
-      "description": "Invoice management module to create, edit, and track purchase and sales invoices with accurate item and pricing details.",
+      "title": "Insurance Claim Reports",
+      "description": "Module for creating, viewing, and managing patient insurance claim reports, including treatment details, billing information, and claim status.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img3.jpg"
     },
     {
-      "icon": "FaImage",
-      "title": "Product Image Upload",
-      "description": "Feature that allows users to upload and manage product images, improving item identification and inventory visualization.",
+      "icon": "FaSearch",
+      "title": "Advanced Patient Search",
+      "description": "Advanced search functionality to quickly find patient insurance records using criteria such as patient ID, policy number, admission date, or insurer.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img4.jpg"
     },
     {
-      "icon": "FaCheckDouble",
-      "title": "Invoice Quantity Verification",
-      "description": "Verification screen to validate invoice quantities against available stock, reducing errors and ensuring accurate inventory records.",
+      "icon": "FaBars",
+      "title": "Menu",
+      "description": "Navigation menu providing quick access to insurance claim modules, patient records, reports, approvals, and system settings.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img5.jpg"
     },
     {
       "icon": "FaExchangeAlt",
-      "title": "Indent Transfer Entry",
-      "description": "Module for recording and managing stock transfers between departments or locations through structured indent entries.",
+      "title": "Credit Allocation",
+      "description": "Feature for managing and allocating approved insurance credits or claim amounts to patient accounts based on insurer approval.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img6.jpg"
     },
     {
-      "icon": "FaUserShield",
-      "title": "Access Policy Report",
-      "description": "Report screen displaying user access policies and permission levels to ensure compliance and controlled system usage.",
+      "icon": "FaChartBar",
+      "title": "Allocated by User Report",
+      "description": "Report showing insurance claim allocations handled by individual users, helping track workload, accountability, and processing efficiency.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img7.jpg"
     },
     {
-      "icon": "FaChartBar",
-      "title": "Dynamic Stock Report",
-      "description": "Interactive stock reporting module that provides real-time insights into inventory levels, movement trends, and availability.",
+      "icon": "FaUserShield",
+      "title": "Consolidated Report",
+      "description": "Comprehensive consolidated report summarizing insurance claims across patients, insurers, and departments for analysis and audits.",
       "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img8.jpg"
+    },
+    {
+      "icon": "FaFilter",
+      "title": "Consolidated Report Criteria",
+      "description": "Filter and criteria selection screen for generating customized consolidated insurance reports based on date range, insurer, status, or department.",
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/insure/img9.jpg"
     }
   ],
   "demo": "https://github.com/dpraful/Jescon",
   "github": "https://github.com/dpraful/EcommerceStore",
   "status": "In production",
-  "description": "This inventory management system features a comprehensive set of modules designed to streamline operations, enhance accuracy, and provide real-time insights into inventory status. From secure login and centralized dashboards to detailed invoice management and dynamic stock reporting, the system offers robust functionality for efficient inventory control and decision-making."
+  "description": "INSURE is a hospital insurance management application designed to streamline patient insurance claim processing. The system enables insurance department staff to manage patient records, submit and track claims, allocate approved credits, and generate detailed reports. With secure access, advanced search, and comprehensive reporting, INSURE improves claim accuracy, operational efficiency, and transparency in hospital insurance workflows."
 }
