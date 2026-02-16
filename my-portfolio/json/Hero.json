@@ -1,21 +1,18 @@
 {
   "name": "PRAFULDAS M M",
-
   "roles": [
     "SOFTWARE ENGINEER",
     "FULLSTACK DEVELOPER",
     "WEB | MOBILE | PC"
   ],
-
   "resume": "PRAFULDASMM.pdf",
-
   "resumeButton": {
     "label": "Download Resume",
     "icon": "FaDownload",
     "size": 18,
     "color": "#ffffff"
   },
-
+  "3Dmodels": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/3dmodels/model1.glb",
   "scrollDown": {
     "icon": "FaArrowDown",
     "href": "#contact",
