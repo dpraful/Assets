@@ -35,13 +35,6 @@
     "url": "https://reactnative.dev"
   },
   {
-    "name": "JSI / Native Modules",
-    "icon": "FaCogs",
-    "level": 85,
-    "color": "#444444",
-    "url": "https://reactnative.dev/docs/native-modules-intro"
-  },
-  {
     "name": "TensorFlow Lite",
     "icon": "SiTensorflow",
     "level": 85,
