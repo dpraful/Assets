@@ -1,102 +1,77 @@
 {
-   "name":"PRAFULDAS M M",
-   "roles":[
-      "SOFTWARE ENGINEER",
-      "FULLSTACK DEVELOPER",
-      "WEB | MOBILE | PC"
-   ],
-   "resume":"PRAFULDASMM.pdf",
-   "resumeButton":{
-      "label":"Download Resume",
-      "icon":"FaDownload",
-      "size":18,
-      "color":"#ffffff"
-   },
-   "3Dmodels":{
-      "camera":{
-         "position":[
-            0,
-            5,
-            8
-         ],
-         "fov":50,
-         "autoAnimate":true,
-         "animateTo":[
-            0,
-            3,
-            6
-         ],
-         "animationSpeed":0.02
+  "name": "PRAFULDAS M M",
+  "roles": [
+    "SOFTWARE ENGINEER",
+    "FULLSTACK DEVELOPER",
+    "WEB | MOBILE | PC"
+  ],
+  "resume": "PRAFULDASMM.pdf",
+  "resumeButton": {
+    "label": "Download Resume",
+    "icon": "FaDownload",
+    "size": 18,
+    "color": "#ffffff"
+  },
+  "3Dmodels": {
+    "camera": {
+      "position": [
+        0,
+        5,
+        0
+      ],
+      "fov": 50
+    },
+    "lights": {
+      "ambient": {
+        "enabled": true,
+        "intensity": 0.7
       },
-      "renderer":{
-         "dpr":[
-            1,
-            2
-         ],
-         "background":"#0f0f0f",
-         "shadows":true,
-         "mobilePerformance":true
-      },
-      "lights":{
-         "ambient":{
-            "enabled":true,
-            "intensity":0.6
-         },
-         "directional":{
-            "enabled":true,
-            "position":[
-               5,
-               5,
-               5
-            ],
-            "intensity":2,
-            "castShadow":true
-         }
-      },
-      "model":{
-         "url":"https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/3dmodels/model1.glb",
-         "scale":[
-            1,
-            1,
-            1
-         ],
-         "position":[
-            0,
-            0,
-            0
-         ],
-         "rotation":[
-            0,
-            0,
-            0
-         ],
-         "castShadow":true,
-         "receiveShadow":true,
-         "materialOverride":{
-            "enabled":true,
-            "color":"#00ffff",
-            "metalness":0.7,
-            "roughness":0.2,
-            "wireframe":false
-         }
-      },
-      "float":{
-         "enabled":true,
-         "speed":2,
-         "rotationIntensity":1,
-         "floatIntensity":2
-      },
-      "environment":{
-         "enabled":true,
-         "preset":"city",
-         "hdrUrl":""
-      },
-      "orbitControls":{
-         "enabled":true,
-         "autoRotate":true,
-         "autoRotateSpeed":1,
-         "enableDamping":true,
-         "dampingFactor":0.05
+      "directional": {
+        "enabled": true,
+        "position": [
+          3,
+          3,
+          3
+        ],
+        "intensity": 2
       }
-   }
+    },
+    "model": {
+      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/3dmodels/model1.glb"
+    },
+    "float": {
+      "enabled": true,
+      "speed": 2,
+      "rotationIntensity": 1,
+      "floatIntensity": 2
+    },
+    "bounds": {
+      "enabled": true,
+      "fit": true,
+      "clip": true,
+      "observe": true,
+      "margin": 2
+    },
+    "environment": {
+      "enabled": true,
+      "preset": "city"
+    },
+    "orbitControls": {
+      "enabled": true,
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "enablePan": false,
+      "maxPolarAngle": 1.5708,
+      "minPolarAngle": 0
+    }
+  },
+  "scrollDown": {
+    "icon": "FaArrowDown",
+    "href": "#contact",
+    "size": 18,
+    "color": "#ffffff"
+  }
 }
