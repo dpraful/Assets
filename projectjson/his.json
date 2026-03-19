@@ -4,37 +4,37 @@
       "icon": "FaMobileAlt",
       "title": "Biometric Mobile Login",
       "description": "React Native based biometric authentication module enabling secure workforce login using face recognition with liveness detection, optimized for real-time performance.",
-      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/his/img1.jpg"
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img1.jpg"
     },
     {
       "icon": "FaCamera",
       "title": "Face Capture & Liveness Detection",
       "description": "High-performance face capture using Vision Camera with TensorFlow-powered anti-spoofing and Laplacian scoring to prevent fraudulent access attempts.",
-      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/his/img2.jpg"
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img2.jpg"
     },
     {
       "icon": "FaQrcode",
       "title": "QR-Based Location Verification",
       "description": "QR scanning with hospital-restricted geofencing to ensure biometric verification occurs only within authorized departments and physical zones.",
-      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/his/img3.jpg"
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img3.jpg"
     },
     {
       "icon": "FaServer",
       "title": "Face Recognition Backend API",
       "description": "FastAPI-based face recognition engine leveraging FAISS for sub-millisecond similarity search across employee face embeddings.",
-      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/his/img4.jpg"
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img4.jpg"
     },
     {
       "icon": "FaDatabase",
       "title": "Audit Logging & Persistence",
       "description": "Dual persistence architecture using SQL Server and local endpoints to ensure compliance-ready audit logs, traceability, and system redundancy.",
-      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/his/img5.jpg"
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img5.jpg"
     },
     {
       "icon": "FaTachometerAlt",
       "title": "Performance & Scalability Engine",
       "description": "Windows-optimized backend with dynamic thread pooling, LRU caching, and health checks, scaling efficiently to 10,000+ biometric profiles.",
-      "url": "https://raw.githubusercontent.com/dpraful/Assets/main/my-portfolio/projectfiles/his/img6.jpg"
+      "url": "https://raw.githubusercontent.com/dpraful/my-portfolio-backend/main/projectfiles/his/img6.jpg"
     }
   ],
   "demo": "https://github.com/dpraful/Jescon",
